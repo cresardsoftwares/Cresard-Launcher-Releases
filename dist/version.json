@@ -10,12 +10,12 @@
                       {
                           "file":  "cresard-launcher-windows-x64-portable.zip",
                           "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64-portable.zip",
-                          "sha256":  "ac61dbac6142fe18cc8a71c32a0a19499d230cf978a26fdbd5c6459bdcee2520"
+                          "sha256":  "15787b6a613acd284ccd848688ead8d12470f697064d9c32c24c46e3afe94ef5"
                       },
                       {
                           "file":  "cresard-launcher-windows-x64.msi",
                           "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64.msi",
-                          "sha256":  "ec8414341ec3a54a4d56068e67e3ae754097b558882e78db8f3506c54ec2a142"
+                          "sha256":  "a9b8554789b0c7eb9f36445d4f6d21a4b19305d5c615ff557a2c00f77af8186b"
                       }
                   ]
 }
