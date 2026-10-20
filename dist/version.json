@@ -3,19 +3,19 @@
     "vendor":  "Cresard Desk",
     "version":  "0.1.0",
     "released":  "2026-10-20",
-    "notes":  "First public build of Cresard Launcher for Windows x64: installer (.msi) and portable (.zip).",
+    "notes":  "First public build of Cresard Launcher for Windows x64: installer (.msi) and portable (.zip). New Cresard-branded artwork, cresard blue #1d4ed8 theme, white default.",
     "page":  "https://desk.cresard.com",
     "repository":  "https://github.com/cresardsoftwares/Cresard-Launcher-Releases",
     "downloads":  [
                       {
                           "file":  "cresard-launcher-windows-x64-portable.zip",
                           "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64-portable.zip",
-                          "sha256":  "b0959ffd0e30f9f0788c037ae7e5a591302b987b723287694b3b73455c38d45f"
+                          "sha256":  "ac61dbac6142fe18cc8a71c32a0a19499d230cf978a26fdbd5c6459bdcee2520"
                       },
                       {
                           "file":  "cresard-launcher-windows-x64.msi",
                           "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64.msi",
-                          "sha256":  "076f9f8310234f92af2ad60723eaa0c879fbe2f862dc3f33d564698c0edada8e"
+                          "sha256":  "ec8414341ec3a54a4d56068e67e3ae754097b558882e78db8f3506c54ec2a142"
                       }
                   ]
 }
