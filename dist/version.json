@@ -3,7 +3,7 @@
     "vendor":  "Cresard Desk",
     "version":  "0.1.1",
     "released":  "2026-10-20",
-    "notes":  "Launcher icon updated, white default theme, cresard blue #1d4ed8, Tables available, Desk coming soon, MSI wizard left-aligned images",
+    "notes":  "Fix: white default theme, cresard blue #1d4ed8, launcher icon, Tables available via raw.githubusercontent feed, left-aligned MSI images",
     "page":  "https://desk.cresard.com",
     "repository":  "https://github.com/cresardsoftwares/Cresard-Launcher-Releases",
     "downloads":  [
@@ -20,12 +20,12 @@
                       {
                           "file":  "cresard-launcher-windows-x64-portable.zip",
                           "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64-portable.zip",
-                          "sha256":  "1084695ffec75ff739fbf26e64bfb0a0395c356192671fb17816c0f187d7be82"
+                          "sha256":  "f07d50eae894f1912933f44625992eadf00670f02c214e880a23c8a28e99246f"
                       },
                       {
                           "file":  "cresard-launcher-windows-x64.msi",
                           "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64.msi",
-                          "sha256":  "a703cc1c96ee572b13187b24f4a397055443f338f225c125b9ea4c1110a69b8c"
+                          "sha256":  "d437add03444ae73a044f2da1db7a8ac648f5e6140a557fa6bf8f9be8d30f754"
                       }
                   ]
 }
