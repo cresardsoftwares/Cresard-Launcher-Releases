@@ -3,7 +3,7 @@
     "vendor":  "Cresard Desk",
     "version":  "0.1.0",
     "released":  "2026-10-20",
-    "notes":  "First public build of Cresard Launcher for Windows x64: installer (.msi) and portable (.zip). New Cresard-branded artwork, cresard blue #1d4ed8 theme, white default.",
+    "notes":  "First public build of Cresard Launcher for Windows x64: installer (.msi) and portable (.zip). New Cresard-branded artwork, cresard blue #1d4ed8 theme, white default. Cresard Tables available, Cresard Desk coming soon.",
     "page":  "https://desk.cresard.com",
     "repository":  "https://github.com/cresardsoftwares/Cresard-Launcher-Releases",
     "downloads":  [
