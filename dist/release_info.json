@@ -1,0 +1,39 @@
+{
+  "release_info": {
+    "apps": {
+      "cresard-tables": {
+        "repo": "cresardsoftwares/Cresard-Tables-Releases",
+        "latest_release": {
+          "tag": "v0.1.0",
+          "name": "Cresard Tables 0.1.0",
+          "published_at": "2026-10-20T00:00:00Z",
+          "html_url": "https://github.com/cresardsoftwares/Cresard-Tables-Releases/releases/tag/v0.1.0",
+          "prerelease": false,
+          "notes_markdown": "First public build of Cresard Tables for Windows x64: an installer and a portable build, with the CLI, XLSX round-trip, 500+ functions, charts, PivotTables and the MCP control channel.",
+          "assets": [
+            {
+              "name": "cresard-tables-windows-x64.msi",
+              "size_bytes": 0,
+              "download_url": "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Tables-Releases/main/dist/cresard-tables-windows-x64.msi",
+              "sha256": "e39a437acc0ae0b4939da583d50512a664996762ac32eb75a6c1e1df75f663b7"
+            },
+            {
+              "name": "cresard-tables-windows-x64-portable.zip",
+              "size_bytes": 0,
+              "download_url": "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Tables-Releases/main/dist/cresard-tables-windows-x64-portable.zip",
+              "sha256": "b8753e1047ee11b07f79cda9f8a31257ff6403e709b49ea63956232d90b8af79"
+            }
+          ]
+        },
+        "app_last_fetched": "2026-10-20T00:00:00Z"
+      }
+    },
+    "last_fetched": "2026-10-20T00:00:00Z"
+  },
+  "app_renames": [],
+  "repo_renames": [],
+  "important_notices": {
+    "announcements": [],
+    "alerts": []
+  }
+}
