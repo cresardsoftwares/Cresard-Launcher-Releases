@@ -1,21 +1,31 @@
 {
     "product":  "Cresard Launcher",
     "vendor":  "Cresard Desk",
-    "version":  "0.1.0",
+    "version":  "0.1.1",
     "released":  "2026-10-20",
-    "notes":  "Launcher icon updated, white default theme, cresard blue #1d4ed8, feed accepts raw.githubusercontent URLs for Tables release.",
+    "notes":  "Launcher icon updated, white default theme, cresard blue #1d4ed8, Tables available, Desk coming soon, MSI wizard left-aligned images",
     "page":  "https://desk.cresard.com",
     "repository":  "https://github.com/cresardsoftwares/Cresard-Launcher-Releases",
     "downloads":  [
                       {
+                          "file":  "cresard-launcher-0.1.0-windows-x64-portable.zip",
+                          "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-0.1.0-windows-x64-portable.zip",
+                          "sha256":  "fb6e418504e6569574cda4c2556e4725a99de163dd9734780f5b740f0dbf1e81"
+                      },
+                      {
+                          "file":  "cresard-launcher-0.1.0-windows-x64.msi",
+                          "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-0.1.0-windows-x64.msi",
+                          "sha256":  "0644e41eeec189181ff63795e9e46788e02ad5bca7e6d70dd29a673db1d2c036"
+                      },
+                      {
                           "file":  "cresard-launcher-windows-x64-portable.zip",
                           "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64-portable.zip",
-                          "sha256":  "fb6e418504e6569574cda4c2556e4725a99de163dd9734780f5b740f0dbf1e81"
+                          "sha256":  "1084695ffec75ff739fbf26e64bfb0a0395c356192671fb17816c0f187d7be82"
                       },
                       {
                           "file":  "cresard-launcher-windows-x64.msi",
                           "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64.msi",
-                          "sha256":  "0644e41eeec189181ff63795e9e46788e02ad5bca7e6d70dd29a673db1d2c036"
+                          "sha256":  "a703cc1c96ee572b13187b24f4a397055443f338f225c125b9ea4c1110a69b8c"
                       }
                   ]
 }
