@@ -3,14 +3,19 @@
     "vendor":  "Cresard Desk",
     "version":  "0.1.0",
     "released":  "2026-10-20",
-    "notes":  "First public build of Cresard Launcher for Windows x64: the portable zip. The installer (.msi) follows once WiX is on PATH.",
+    "notes":  "First public build of Cresard Launcher for Windows x64: installer (.msi) and portable (.zip).",
     "page":  "https://desk.cresard.com",
     "repository":  "https://github.com/cresardsoftwares/Cresard-Launcher-Releases",
     "downloads":  [
                       {
                           "file":  "cresard-launcher-windows-x64-portable.zip",
                           "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64-portable.zip",
-                          "sha256":  "ffe3ad10ceeedf2a7a2157a4a8f9ce610051bfce3971af5cb46e023f688dd0a8"
+                          "sha256":  "b0959ffd0e30f9f0788c037ae7e5a591302b987b723287694b3b73455c38d45f"
+                      },
+                      {
+                          "file":  "cresard-launcher-windows-x64.msi",
+                          "url":  "https://raw.githubusercontent.com/cresardsoftwares/Cresard-Launcher-Releases/main/dist/cresard-launcher-windows-x64.msi",
+                          "sha256":  "076f9f8310234f92af2ad60723eaa0c879fbe2f862dc3f33d564698c0edada8e"
                       }
                   ]
 }
