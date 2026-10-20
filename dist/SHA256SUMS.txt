@@ -1,4 +1,4 @@
 fb6e418504e6569574cda4c2556e4725a99de163dd9734780f5b740f0dbf1e81  cresard-launcher-0.1.0-windows-x64-portable.zip
 0644e41eeec189181ff63795e9e46788e02ad5bca7e6d70dd29a673db1d2c036  cresard-launcher-0.1.0-windows-x64.msi
-f07d50eae894f1912933f44625992eadf00670f02c214e880a23c8a28e99246f  cresard-launcher-windows-x64-portable.zip
-d437add03444ae73a044f2da1db7a8ac648f5e6140a557fa6bf8f9be8d30f754  cresard-launcher-windows-x64.msi
+bb9c2b36226c2ec213bd63e468205a1135ea1e399f0319b3a0b9e56698c77844  cresard-launcher-windows-x64-portable.zip
+e855d73c332e7e83dd75171dfb888f46252e40bc70760d3ca385979929df22ec  cresard-launcher-windows-x64.msi
